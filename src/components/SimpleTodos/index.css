@@ -60,6 +60,6 @@
   border-bottom: none;
 }
 
-.todo-item input[type="checkbox"] {
+.todo-item input[type='checkbox'] {
   margin-right: 10px;
 }
